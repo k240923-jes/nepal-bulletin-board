@@ -31,6 +31,7 @@ echo "## Project Overview" >> README.md
 echo "This is a capstone project for CPRO306 at Kent Institute Australia." >> README.md
 echo "" >> README.md
 echo "### Features" >> README.md
+
 echo "- Real-time news updates" >> README.md
 echo "- Category-based browsing (Politics, Business, Sports, Entertainment, Technology)" >> README.md
 echo "- Breaking news ticker" >> README.md
